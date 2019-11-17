@@ -4,5 +4,6 @@
     <div class="starter-template">
         <h1>Home</h1>
         <p class="lead">Ini adalah halaman home</p>
+        <p>Selamat bersenang-senang disini.</p>
     </div>
 @endsection
